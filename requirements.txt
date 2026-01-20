@@ -1,0 +1,6 @@
+# Não há dependências externas para este projeto
+# Python 3.6+ é suficiente para executar o sistema
+
+# Bibliotecas utilizadas (todas parte da biblioteca padrão do Python):
+# - datetime: Para gerenciamento de datas de empréstimo
+# - Nenhuma dependência externa necessária
