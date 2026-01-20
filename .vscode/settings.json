@@ -1,0 +1,7 @@
+{
+    "chat.allowAnonymousAccess": true,
+    "chat.checkpoints.showFileChanges": true,
+    "chat.customAgentInSubagent.enabled": true,
+    "chat.disableAIFeatures": false,
+    "git.ignoreLimitWarning": true
+}
